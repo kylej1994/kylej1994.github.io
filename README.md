@@ -10,10 +10,10 @@ I'm Kyle Jablon. I currently work at GrubHub on the e-commerce data science team
 I've been using Python, Pandas, and Spark since 2016, and their associated toolkits. 
 
 
-Other stuff I use a lot: sklearn, xgBoost, SHAP, Jenkins, Azkaban
+Other stuff I use a lot: sklearn, pandas, numpy, seaborn, xgBoost, SHAP, Jenkins, Azkaban
 
 
-Stuff I'm trying to pick-up: Dask
+Stuff I'm trying to pick-up: Dask, Docker
 
 ### Some public stuff I've worked on
 
